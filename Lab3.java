@@ -1,6 +1,4 @@
 import java.util.*;
-import java.lang.String;
-
 class Lab3
 {
   int a[],n;
